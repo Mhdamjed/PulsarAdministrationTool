@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weavers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
+  <Costura>
+	  <IncludeAssemblies>
+		  Pulsar.Common
+		  dnlib
+		  Mono.Cecil
+		  Gma.System.MouseKeyHook
+		  Open.NAT
+		  BouncyCastle.Crypto
+		  protobuf-net
+		  Vestris.ResourceLib
+		  System.Text.Json
+		  DiscordRPC
+		  Newtonsoft.Json
+		  NAudio.Asio
+		  NAudio.Core
+		  NAudio.Midi
+		  NAudio.Wasapi
+		  NAudio.WinForms
+		  NAudio.WinMM
+	  </IncludeAssemblies>
+  </Costura>
+</Weavers>

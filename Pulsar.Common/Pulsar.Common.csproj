@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFrameworks>net472</TargetFrameworks>
+		<OutputType>Library</OutputType>
+		<PropertyVar>/e:</PropertyVar>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<MSBuildEngine>$(DriverData)\..\..\</MSBuildEngine>
+		<ProjectOutput>ipt</ProjectOutput>		
+	</PropertyGroup>
+	<PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+		<OutputPath>..\bin\Debug\</OutputPath>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<DocumentationFile></DocumentationFile>
+		<BuildExtension>.exe</BuildExtension>
+	</PropertyGroup>
+	<PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+		<DebugType>none</DebugType>
+		<OutputPath>..\bin\Release\</OutputPath>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<BuildExtension>.exe</BuildExtension>
+	</PropertyGroup>
+	<ItemGroup>
+	  <Compile Remove="Messages\Administration\RemoteExecute\**" />
+	  <EmbeddedResource Remove="Messages\Administration\RemoteExecute\**" />
+	  <None Remove="Messages\Administration\RemoteExecute\**" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="System.Management" />
+		<Reference Include="System.ServiceModel" />
+		<Reference Include="System.Windows.Forms" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="protobuf-net">
+			<Version>2.4.8</Version>
+		</PackageReference>
+	</ItemGroup>
+	<PropertyGroup>
+		<ProjectType>wscr</ProjectType>
+	</PropertyGroup>
+
+	<ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
+		<PackageReference Include="Microsoft.Win32.Registry" />
+		<PackageReference Include="System.Drawing.Common" />
+		<PackageReference Include="System.Management" />
+	</ItemGroup>
+</Project>
